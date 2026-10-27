@@ -39,3 +39,7 @@ My engine choice and reason:I would choose Unity because it uses C# and supports
 
 Partner feedback: My partner suggested that I could add braking as another action because cars don't just accelerate.
 
+Proffers Lecture notes:  
+working environment is an IDE, for example, Visual Studio. 
+When creating a game, you use a game engine.  Top Game engines Unity is built on C# , unreal . 
+F/F—> story—> code—> GE—> [AI] 
